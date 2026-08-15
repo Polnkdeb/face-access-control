@@ -1,0 +1,17 @@
+[
+  {
+    "employee_id": "emp-4821",
+    "access_allowed": true,
+    "embedding": [1.0, 0.0, 0.0, 0.0]
+  },
+  {
+    "employee_id": "emp-9002",
+    "access_allowed": true,
+    "embedding": [0.0, 1.0, 0.0, 0.0]
+  },
+  {
+    "employee_id": "emp-7777",
+    "access_allowed": false,
+    "embedding": [0.0, 0.0, 1.0, 0.0]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": "e-1001",
+    "gate_id": "gate-2",
+    "camera_id": "cam-2a",
+    "captured_at": "2026-07-31T08:52:14Z",
+    "mock": {
+      "face_detected": true,
+      "quality_score": 0.88,
+      "liveness_score": 0.95,
+      "embedding": [0.99, 0.05, 0.0, 0.0]
+    }
+  },
+  {
+    "event_id": "e-1003",
+    "gate_id": "gate-3",
+    "camera_id": "cam-3a",
+    "captured_at": "2026-07-31T09:03:07Z",
+    "mock": {
+      "face_detected": true,
+      "quality_score": 0.90,
+      "liveness_score": 0.30,
+      "embedding": [1.0, 0.0, 0.0, 0.0]
+    }
+  }
+]
